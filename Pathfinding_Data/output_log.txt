@@ -1,0 +1,32 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   22.21.13.8165
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\UnityProject\Pathfinder Algorithms\Pathfinding_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\UnityProject\Pathfinder Algorithms\Pathfinding_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\UnityProject\Pathfinder Algorithms\Pathfinding_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\UnityProject\Pathfinder Algorithms\Pathfinding_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\UnityProject\Pathfinder Algorithms\Pathfinding_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\UnityProject\Pathfinder Algorithms\Pathfinding_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\UnityProject\Pathfinder Algorithms\Pathfinding_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\UnityProject\Pathfinder Algorithms\Pathfinding_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\UnityProject\Pathfinder Algorithms\Pathfinding_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\UnityProject\Pathfinder Algorithms\Pathfinding_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\UnityProject\Pathfinder Algorithms\Pathfinding_Data\Managed\Vectrosity.dll (this message is harmless)
+Loading D:\UnityProject\Pathfinder Algorithms\Pathfinding_Data\Managed\Vectrosity.dll into Unity Child Domain
+- Completed reload, in  0.093 seconds
+Platform assembly: D:\UnityProject\Pathfinder Algorithms\Pathfinding_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\UnityProject\Pathfinder Algorithms\Pathfinding_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 4800x1350 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.081780 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1ef0 -> priority: 1 
+  Thread -> id: 3b78 -> priority: 1 
