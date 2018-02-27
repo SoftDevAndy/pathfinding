@@ -1,4 +1,4 @@
-# unity-pathfinding
+# pathfinding
 Re-visited pathfinding. Implemented the manhattan heuristic in Unity3D.
 
 ![Screenshot](https://puu.sh/wc5TG/978f7fbbdb.jpg)
