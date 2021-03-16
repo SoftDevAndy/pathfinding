@@ -1,8 +1,6 @@
 # pathfinding
 Re-visited pathfinding. Implemented the manhattan heuristic in Unity3D.
 
-![Screenshot](https://puu.sh/wc5TG/978f7fbbdb.jpg)
-
 ## How does it work?
 
 This project is entirely based off the following
